@@ -1,1 +1,1 @@
-# All the explorations are based on Kiva
+# All the explorations in Business Data Science 24
